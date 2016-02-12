@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "29F2CF263A3B1C6E5DFB4E2F763037BF7D982C7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "29F2CF263A3B1C6E5DFB4E2F763037BF7D982C7D" : 0,
+    "FB38EC97A80A46C34DB5CCE418F69FFBFC976E16" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C8C27CFF-7F1F-4180-A008-27BE269E1233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "29F2CF263A3B1C6E5DFB4E2F763037BF7D982C7D" : "HoroscopeApp\/",
+    "FB38EC97A80A46C34DB5CCE418F69FFBFC976E16" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Assignment1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EvanMAmstutz\/HoroscopeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29F2CF263A3B1C6E5DFB4E2F763037BF7D982C7D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EvanMAmstutz\/Assignment1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB38EC97A80A46C34DB5CCE418F69FFBFC976E16"
+    }
+  ]
+}
